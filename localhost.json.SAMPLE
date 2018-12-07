@@ -1,0 +1,10 @@
+ { 
+    "http.port":"8081",
+    "server.port":"8082",
+    "baseUrl":"https://127.0.0.1:8082",
+    "spring.data.mongodb.database":"name",
+    "spring.data.mongodb.host": "host",
+    "spring.data.mongodb.password":"password",
+    "spring.data.mongodb.port":"port",
+    "spring.data.mongodb.username":"username"
+}
